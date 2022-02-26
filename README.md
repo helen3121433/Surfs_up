@@ -23,20 +23,21 @@
 
     - After compares termperture in June and December, there's not a big difference of temperature change in Oahu. According to this, the surf and ice cream shop business is sustainable year-round
 
+![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/June_summary.PNG) ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/Dec_summary.PNG)
+
 ## Summary
-    - According to the temperture summary statics for both June and December, it conludes that temperture degrees are mostly stay the similar through out the year. However, there are also other weather data on the SQLite, precipitation and station number. It would be more accurate if there's summary statistics for both preciatation and data of each station.
+- According to the temperture summary statics for both June and December, it conludes that temperture degrees are mostly stay the similar through out the year. However, there are also other weather data on the SQLite, precipitation and station number. It would be more accurate if there's summary statistics for both preciatation and data of each station.
 
-    - Below are average weather data for each locations.      
-        -Table includes, average precipitation, average temperture, maximum, and minimum temperture in June.
-
-
-        - Graph shows that station 516128 has higher avg prcp in June.
+- Below are average weather data for each locations.      
+    -Table includes, average precipitation, average temperture, maximum, and minimum temperture in June.
 
 
-
-    - Below are average weather data for each locations.
-        -Table includes, average precipitation, average temperture, maximum, and minimum temperture in December.
+    - Graph shows that station 516128 has higher avg prcp in June.
 
 
-        - Graph shows that station 518838 and 514830 has higher avg prcp in December.
-        
+
+- Below are average weather data for each locations.
+    -Table includes, average precipitation, average temperture, maximum, and minimum temperture in December.
+
+
+    - Graph shows that station 518838 and 514830 has higher avg prcp in December.
