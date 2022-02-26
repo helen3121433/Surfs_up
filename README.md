@@ -13,31 +13,34 @@
 - Result for June
     - Maximum temperture in June was 85°F, minimum temperture in June was 64°F.
     - Average temperture in June was 74.94°F
+    ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/June_summary.PNG)
 
 - Result for December
     - Maximum temperture in December was 83°F, minimum temperture in December was 56°F.
     - Average temperture in December was 71.04°F
+     ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/Dec_summary.PNG)
 
 - Compare result
     - To compare standard deviation for both June(3.26) and December(3.75), both were in nearly 3 or 4, which means data are clusterd around the average.
 
     - After compares termperture in June and December, there's not a big difference of temperature change in Oahu. According to this, the surf and ice cream shop business is sustainable year-round
 
-![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/June_summary.PNG) ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/Dec_summary.PNG)
+
 
 ## Summary
 - According to the temperture summary statics for both June and December, it conludes that temperture degrees are mostly stay the similar through out the year. However, there are also other weather data on the SQLite, precipitation and station number. It would be more accurate if there's summary statistics for both preciatation and data of each station.
 
 - Below are average weather data for each locations.      
     -Table includes, average precipitation, average temperture, maximum, and minimum temperture in June.
-
+    ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/june_avg.PNG)
 
     - Graph shows that station 516128 has higher avg prcp in June.
-
+    ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/june_prcp_graph.PNG)
 
 
 - Below are average weather data for each locations.
     -Table includes, average precipitation, average temperture, maximum, and minimum temperture in December.
-
+    ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/dec_avg.PNG)
 
     - Graph shows that station 518838 and 514830 has higher avg prcp in December.
+    ![](https://github.com/helen3121433/Surfs_up/blob/main/Resources/dec_prcp_graph.PNG)
